@@ -1,7 +1,7 @@
 # LSTM-for-Prediction
 Prediction of the Stock Adjusted Closing Price Based on LSTM Neural Network(Keras,Python)
 
-![image](https://www.helloimg.com/i/2024/10/05/6700a81b08b1a.png)
+![image](https://s2.loli.net/2024/10/12/N4Q6orOPM8fjpsG.png)
 
 The code model is based on LSTM neural network, which predicts the next day by Adj Close Price of the first 20 days.
 
